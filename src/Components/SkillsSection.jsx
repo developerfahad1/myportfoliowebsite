@@ -6,6 +6,10 @@ import cssIcon from "../images/css.png.png";
 import jsIcon from "../images/js.png.jpg";
 import reactIcon from "../images/react.png.png";
 import bootstrapIcon from "../images/bootstrap.png.png";
+import tailwindIcon from "../images/tailwind.png.png";
+import githubIcon from "../images/github.png"
+
+
 
 
 // ✅ Skills data
@@ -15,6 +19,9 @@ const skills = [
   { name: "JavaScript", icon: jsIcon, major: true },
   { name: "ReactJs", icon: reactIcon, major: true },
   { name: "Bootstrap", icon: bootstrapIcon, major: true },
+  { name: "tailwind", icon: tailwindIcon, major: true},
+  { name: "github", icon: githubIcon, major: true},
+  
 
 ];
 
