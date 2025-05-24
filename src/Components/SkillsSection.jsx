@@ -8,6 +8,7 @@ import reactIcon from "../images/react.png.png";
 import bootstrapIcon from "../images/bootstrap.png.png";
 import tailwindIcon from "../images/tailwind.png.png";
 import githubIcon from "../images/github.png"
+import wordpressIcon from "../images/wordpress.png.png"
 
 
 
@@ -19,8 +20,9 @@ const skills = [
   { name: "JavaScript", icon: jsIcon, major: true },
   { name: "ReactJs", icon: reactIcon, major: true },
   { name: "Bootstrap", icon: bootstrapIcon, major: true },
-  { name: "tailwind", icon: tailwindIcon, major: true},
-  { name: "github", icon: githubIcon, major: true},
+  { name: "Tailwind", icon: tailwindIcon, major: true},
+  { name: "Github", icon: githubIcon, major: true},
+  { name: "Wordpress", icon: wordpressIcon, major: true},
   
 
 ];
